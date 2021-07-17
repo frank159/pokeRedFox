@@ -6,6 +6,10 @@
 &nbsp
 <p align="center">Link do Surge: https://first-beam.surge.sh/</p>
 
+### Descrição 👁‍🗨
+
+Neste projeto de processo seletivo tive que criar desde o banco de dados até o front-end, tive algumas complicações, mas nada que muito café não tenha resolvido, agradeço por dicas e críticas construtivas.
+
 ### Funcionamento 🛠
 
 - [x] Adicionar pokemons
