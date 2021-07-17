@@ -4,7 +4,6 @@ import { Request, Response } from "express";
 export default async function getPoke( req: Request, res: Response ): Promise<void> {
 
     try {
-            console.log("aa")
             const result = await connection.raw(`
               SELECT * FROM pokeRedFox 
             `)
