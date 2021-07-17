@@ -98,7 +98,7 @@ export const EditarPoke = () => {
                   fullWidth
                   variant={"contained"}
                   color={"primary"}
-                  >to add
+                  >update
                   </Button>  
               </form>
           </InputsContainer>
