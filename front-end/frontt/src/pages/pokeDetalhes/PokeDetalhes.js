@@ -43,7 +43,7 @@ export const PokeDetalhes = () => {
                         pokeWeight={poke.pokeWeight}
                     />
                     }
-                    <Button onClick={() => onClickCard(poke.id)} variant="contained" color="primary" disableElevation >X</Button>
+                    <Button onClick={() => onClickCard(poke.id)} variant="contained" color="primary" disableElevation >update Pokemon</Button>
                 </ScreenContainer>
         </div>
     )
