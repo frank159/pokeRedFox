@@ -8,7 +8,7 @@
 
 ### Descrição 👁‍🗨
 
-Neste projeto de processo seletivo tive que criar desde o banco de dados até o front-end, tive algumas complicações, mas nada que muito café não tenha resolvido, agradeço por dicas e críticas construtivas.
+Neste projeto de processo seletivo tive que criar desde o banco de dados até o front-end, tive algumas complicações, mas nada que muito café não tenha resolvido, essa aplicação se passeia em uma necessidade de organização e praticidade, então ela visa ser o mais clara e simples possível, agradeço por dicas e críticas construtivas.
 
 ### Funcionamento 🛠
 
